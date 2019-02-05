@@ -1,3 +1,14 @@
 # Alarm-Clock
 A 24-hour Clock with precision of 1 milisecond.
-![alt text](Alarm-Clock/Temporary/UML AlarmClock.png)
+
+## Clock Model
+
+
+
+## Built with
+
+Eclipse - C/C++
+ATmega128RFA1
+
+## Author
+Nam Do
